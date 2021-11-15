@@ -1,2 +1,2 @@
 # Deep-Learning
- CS60010: Deep Learning IIT Kharagpur Spring 2021
+* CS60010: Deep Learning IIT Kharagpur Spring 2021
